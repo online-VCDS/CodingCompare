@@ -1,0 +1,495 @@
+Sonntag,14,Januar,2018,14:59:59:22578
+VCDS -- Windows-basierter VAG/VAS-Emulator läuft auf Windows 7 x64
+VCDS Version: PCI 17.8.1.0  HEX-V2 CB: 0.4411.4
+Datenstand: 20171211 DS276.6
+www.VCDSpro.de
+
+
+Fahrzeug-Ident.-Nr.: WAUZZZ8V6HA003540   KFZ-Kennzeichen: DÜW-A3-2017-FL
+Kilometerstand: 20508km   Reparaturauftrag: 
+
+
+
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+
+
+Fahrzeugtyp: 8V-AU37 (5Q0)
+Scan: 01 02 03 08 09 10 13 14 15 16 17 19 3C 42 44 47 52 55 5F 6C
+          A5 BB BC CF
+
+Fahrzeug-Ident.-Nr.: WAUZZZ8V6HA003540   Kilometerstand: 20508km
+
+01-Motorelektronik -- Status: i.O. 0000
+02-Getriebe -- Status: i.O. 0000
+03-Bremsenelektronik -- Status: i.O. 0000
+08-Klima-/Heizungsel. -- Status: i.O. 0000
+09-Zentralelektrik -- Status: i.O. 0000
+10-Einparkhilfe 2 -- Status: i.O. 0000
+13-Distanzregelung -- Status: i.O. 0000
+14-Raddämpfung -- Status: i.O. 0000
+15-Airbag -- Status: i.O. 0000
+16-Lenkradelektronik -- Status: i.O. 0000
+17-Schalttafeleinsatz -- Status: i.O. 0000
+19-Diagnoseinterface -- Status: i.O. 0000
+3C-Spurwechsel -- Status: Fehler 0010
+42-Türelektr. Fahrer -- Status: i.O. 0000
+44-Lenkhilfe -- Status: i.O. 0000
+47-Soundsystem -- Status: i.O. 0000
+52-Türelektr. Beifahr. -- Status: i.O. 0000
+55-Leuchtweitenreg. -- Status: i.O. 0000
+5F-Informationselek. I -- Status: i.O. 0000
+6C-Rückfahrkamera -- Status: i.O. 0000
+A5-Front-/Vorfeldkamera -- Status: i.O. 0000
+BB-Türelektronik hinten links -- Status: i.O. 0000
+BC-Türelektronik hinten rechts -- Status: i.O. 0000
+CF-Spurwechselassistent 2 -- Status: Fehler 0010
+-------------------------------------------------------------------------------
+Adresse 01: Motorelektronik (J623-CRLB)       Labeldatei:. DRV\04L-907-309-V1.clb
+   Teilenummer SW: 04L 906 026 BP    HW: 04L 907 309 R
+   Bauteil: R4 2,0L EDC   H23 1198  
+   Revision: B5H23---    
+   Codierung: 021D0032046401082000
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_ECM20TDI01104L906026BP 002002
+   ROD: EV_ECM20TDI01104L906026BP_002.rod
+   VCID: 79AE1C99A95CD1EF1DF-802C
+
+Kein(e) Fehlercode(s) gefunden.
+Readiness: 0 0 0 0 0 
+
+-------------------------------------------------------------------------------
+Adresse 02: Getriebe (J743)       Labeldatei: DRV\0D9-927-770.clb
+   Teilenummer SW: 0D9 300 041 H    HW: 02E 927 770 AQ
+   Bauteil: DQ250-6F MQB  H54 4902  
+   Revision: 06354004    Seriennummer: TFK01606041711
+   Codierung: 0014
+   Betriebsnr.: WSC 04742 780 00200
+   ASAM Datensatz: EV_TCMDQ250021 001001
+   ROD: EV_TCMDQ250021_VW37.rod
+   VCID: 1D6628095D344DCF517-8048
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 03: Bremsenelektronik (J104)       Labeldatei:. 5Q0-907-379-IPB-V1.clb
+   Teilenummer SW: 5Q0 614 517 BH    HW: 5Q0 614 517 AD
+   Bauteil: ESC           H25 0507  
+   Revision: 00000000    Seriennummer: 61616000000764
+   Codierung: 12F162A234200A6F897C0E0441C32948462C509170829472186150F482A802
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_Brake1UDSContiMK100IPB 035019
+   ROD: EV_Brake1UDSContiMK100IPB_035_AU37.rod
+   VCID: 78A8199D9256C8E7621-802C
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 08: Klima-/Heizungsel. (E87)       Labeldatei:| 8V0-820-043.clb
+   Teilenummer SW: 8V0 820 043 Q    HW: 8V0 820 043 Q
+   Bauteil: AC Automat    H03 0110  
+   Revision: 20001000    Seriennummer: 00000000943476
+   Codierung: 03000104002000011000000000001100
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_AirCondiFrontVaAU37X 008021
+   ROD: EV_AirCondiFrontVaAU37X.rod
+   VCID: 40D8B17D8A0640271A1-8014
+
+   Geber für Luftfeuchtigkeit: außen: 
+   Subsystem 1 - Teilenummer SW: 4H0 907 658     HW: 4H0 907 658 
+   Bauteil: AQ_Hum_Sensor  H03 0005 
+   Seriennummer: D948403800PAG0MUFU01
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 09: Zentralelektrik (J519)       Labeldatei:. DRV\5Q0-937-08X-V2.clb
+   Teilenummer SW: 5Q0 937 084 CF    HW: 5Q0 937 084 CF
+   Bauteil: BCM MQBAB M+  H34 0236  
+   Seriennummer: 02001616302980
+   Codierung: 000000000000000000000000000000000000000000000000000000000000
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_BCMMQB 017001
+   ROD: EV_BCMBOSCH_017_VW27.rod
+   VCID: 7EA40F85B072F6D728D-802A
+
+   Steuergerät für Wischermotor: 
+   Subsystem 1 - Teilenummer SW: 8V1 955 119 A    HW: 8V1 955 119   Labeldatei: DRV\5QX-955-119-V1.CLB
+   Bauteil: WWS370 160519  043 0580 
+   Seriennummer:         160530123042
+   Codierung: 0A47F7
+
+   Sensor für Regen- und Lichterkennung: 
+   Subsystem 2 - Teilenummer SW: 8U0 955 559 C    HW: 8U0 955 559 B  Labeldatei: DRV\8U0-955-559.CLB
+   Bauteil: G397_RLFS  H06 0004 
+   Seriennummer: 61938774            
+   Codierung: 00006C
+
+   Lichtschalter: 
+   Subsystem 3 - Teilenummer SW: 8V0 941 531 AR    HW: 8V0 941 531 AR
+   Bauteil: E1 - LDS MQB  H05 0032 
+   Seriennummer: 18 03 2016  00000252
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 10: Einparkhilfe 2 (J791)       Labeldatei:| DRV\5Q0-919-298.clb
+   Teilenummer SW: 5QA 919 298 A    HW: 5QA 919 298 A
+   Bauteil: PLA 3.0 12KH07 0031  
+   Seriennummer: 000308417616144
+   Codierung: 0270167851
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_EPHVA2CAU3700000 009027
+   ROD: EV_EPHVA2CAU3700000_009_VW37.rod
+   VCID: 4EC49F454052A65798D-801A
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 13: Distanzregelung (J428)       Labeldatei:| 3Q0-907-572.clb
+   Teilenummer SW: 5Q0 907 572 G    HW: 5Q0 907 572 G
+   Bauteil: ACC BOSCH MQB H10 0571  
+   Codierung: 3500E7C35DFFC728949C8045000026
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_ACCBOSCHVW416 001005
+   ROD: EV_ACCBOSCHVW416_001_VW37.rod
+   VCID: 3B22C691E3E023FF4F3-806E
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 14: Raddämpfung (J250)       Labeldatei: 8V0-907-376.clb
+   Teilenummer SW: 8V0 907 376 E    HW: 8V0 907 376 E
+   Bauteil: DAEMPFUNGS-SG H09 0072  
+   Seriennummer:       120616012
+   ASAM Datensatz: EV_AudiMagneRide 002003
+   ROD: EV_AudiMagneRide_002_AU37.rod
+   VCID: 43D2BE719B105B3F073-8016
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 15: Airbag (J234)       Labeldatei:| DRV\5Q0-959-655.clb
+   Teilenummer SW: 5Q0 959 655 AS    HW: 5Q0 959 655 AS
+   Bauteil: AirbagVW21    003 0315  
+   Seriennummer: 003TMR1TKVYO
+   Codierung: 98FCC0000C0000005C5400CA004800000065
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_AirbaVW20SMEVW37X 002154
+   ROD: EV_AirbaVW20SMEVW37X_VW37.rod
+   VCID: 117E443991ECF9AFC5F-8044
+
+   Crashsensor für Seitenairbag Fahrerseite: 
+   Subsystem 1 - Teilenummer SW: -----------    HW: 480 001 006 16
+   Bauteil: SideSensor_Df  001 0887 
+   Seriennummer: 357000000003218D8B1J
+   Codierung: 2D2D2D
+
+   Crashsensor für Seitenairbag Beifahrerseite: 
+   Subsystem 2 - Teilenummer SW: -----------    HW: 480 001 006 16
+   Bauteil: SideSensor_Pf  001 0887 
+   Seriennummer: 35800000000D218D8B1U
+   Codierung: 2D2D2D
+
+   Crashsensor für Seitenairbag hinten Fahrerseite: 
+   Subsystem 3 - Teilenummer SW: -----------    HW: 480 401 406 16
+   Bauteil: SideSensor_Dr  001 6149 
+   Seriennummer: 3510002A520FC4C1B2FE
+   Codierung: 2D2D2D
+
+   Crashsensor für Seitenairbag hinten Beifahrerseite: 
+   Subsystem 4 - Teilenummer SW: -----------    HW: 480 401 406 16
+   Bauteil: SideSensor_Pr  001 6149 
+   Seriennummer: 3520002B720FC4C4A07A
+   Codierung: 2D2D2D
+
+   Crashsensor für Frontairbag Fahrerseite: 
+   Subsystem 5 - Teilenummer SW: -----------    HW: 480 402 004 16
+   Bauteil: FrontSensor_D  001 6149 
+   Seriennummer: 3550002A520414E400EU
+   Codierung: 2D2D2D
+
+   Crashsensor für Fußgängerschutz Fahrerseite: 
+   Subsystem 6 - Teilenummer SW: -----------    HW: 480 401 306 16
+   Bauteil: PedP_Sensor_D  000 6149 
+   Seriennummer: 2280001BB20FC484E30B
+   Codierung: 2D2D2D
+
+   Crashsensor für Fußgängerschutz Beifahrerseite: 
+   Subsystem 7 - Teilenummer SW: -----------    HW: 480 401 306 16
+   Bauteil: PedP_Sensor_P  000 6149 
+   Seriennummer: 2290001BB20FC483D45G
+   Codierung: 2D2D2D
+
+   Crashsensor für Fußgängerschutz Fahrerseite 2: 
+   Subsystem 8 - Teilenummer SW: -----------    HW: 480 001 905 16
+   Bauteil: PedPSensor_D2  001 0887 
+   Seriennummer: I0M00000000338A86B14
+   Codierung: 2D2D2D
+
+   Crashsensor für Fußgängerschutz Beifahrerseite 2: 
+   Subsystem 9 - Teilenummer SW: -----------    HW: 480 001 905 16
+   Bauteil: PedPSensor_P2  001 0887 
+   Seriennummer: I0N000000005306C3B1$
+   Codierung: 2D2D2D
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 16: Lenkradelektronik (J527)       Labeldatei:| DRV\5Q0-953-549.clb
+   Teilenummer SW: 8V0 953 521 HT    HW: 5Q0 953 549 E
+   Bauteil: Lenks. Modul  003 0140  
+   Revision: --------    Seriennummer: 13061604401434
+   Codierung: EC18
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_SMLSKLOMQB 020002
+   ROD: EV_SMLSKLOMQB_020_AU37.rod
+   VCID: 13724E31ABF00BBFF73-8046
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 17: Schalttafeleinsatz (J285)       Labeldatei:| DRV\5G0-920-XXX-17.clb
+   Teilenummer SW: 8V0 920 790     HW: 8V0 920 790 
+   Bauteil: FBenRDW       H13 0045  
+   Codierung: 048409407F9C00080080E8001000000000000000
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_DashBoardFPKAU37X 001023
+   ROD: EV_DashBoardFPKAU37X.rod
+   VCID: 79AE1C99A95CD1EF1DF-802C
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 19: Diagnoseinterface (J533)       Labeldatei:| DRV\5Q0-907-530-V1.clb
+   Teilenummer SW: 5Q0 907 530 AM    HW: 5Q0 907 530 F
+   Bauteil: GW MQB High   128 1265  
+   Revision: --------    Seriennummer: 0005010963
+   Codierung: 030100041F0873005B0002589C0B00000001010000000000000000000000
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_GatewLear 013020
+   ROD: EV_GatewLear_013_VW37.rod
+   VCID: 7CA0058DA66EE4C7069-8028
+
+   Generator: 
+
+   Steuergerät für Multifunktionslenkrad: 
+   Subsystem 2 - Teilenummer SW: 8W0 951 523 F    HW: 8W0 951 523 F
+   Bauteil: J453 MFL  H04 0002 
+   Seriennummer: 20160524025025 00381
+
+   Steuergerät für Batterieüberwachung: 
+   Subsystem 3 - Teilenummer SW: 5Q0 915 181 J    HW: 5Q0 915 181 J
+   Bauteil: J367-BDMConti  H03 1050 
+   Seriennummer: 75410803001605062146
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 3C: Spurwechsel (J769)       Labeldatei:| DRV\3Q0-907-566.clb
+   Teilenummer SW: 3Q0 907 566 D    HW: 3Q0 907 566 
+   Bauteil: MRR1Rear      H16 0410  
+   Revision: --------    
+   Codierung: 04C002
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_RearRadarS1BoschVW48X 001002
+   ROD: EV_RearRadarS1BoschVW48X.rod
+   VCID: 392EDC99E9DC11EF5DF-806C
+
+1 Fehler gefunden:
+267010 - Datenbus empfangener Fehlerwert 
+          U1123 00 [008] - -
+          Sporadisch - bestätigt - geprüft seit letzter Löschung
+             Umgebungsbedingungen:
+                    Fehlerstatus: 00000001
+                    Fehlerpriorität: 6
+                    Fehlerhäufigkeit: 1
+                    Verlernzähler: 135
+                    Kilometerstand: 20473 km
+                    Datum: 2018.01.14
+                    Zeit: 14:24:11
+
+                    Steuergerätetemperatur: 36 °C
+                    Spannung Klemme 30: Messwert nicht verfügbar
+                    Fahrzeuggeschwindigkeit: 63.47 km/h
+                    Status Klemme 15: Messwert nicht verfügbar
+                    Spannung Klemme 15: 14.40 V
+
+
+-------------------------------------------------------------------------------
+Adresse 42: Türelektr. Fahrer (J386)       Labeldatei:| 5QX-959-X93-42.clb
+   Teilenummer SW: 5Q0 959 593 E    HW: 5Q0 959 593 B
+   Bauteil: TSG FS        020 0041  
+   Seriennummer: 240516EEM15085
+   Codierung: 005F8B204100040000001003
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_DCUDriveSideEWMAXKLO 006003
+   ROD: EV_DCUDriveSideEWMAXCONT_VW37.rod
+   VCID: 43D2BE719B105B3F073-8016
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 44: Lenkhilfe (J500)       Labeldatei:| DRV\5Q0-909-144.clb
+   Teilenummer SW: 5Q0 909 144 T    HW: 5Q0 909 144 R
+   Bauteil: EPS_MQB_ZFLS  128 1072  
+   Codierung: 9307
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_SteerAssisMQB 013144
+   ROD: EV_SteerAssisMQB_013_VW37.rod
+   VCID: 45D6A0699524650F297-8010
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 47: Soundsystem (J525)       Labeldatei:| DRV\81A-035-466.clb
+   Teilenummer SW: 81A 035 466     HW: 81A 035 466 
+   Bauteil: MIB2_amp_P_A3 H10 0100  
+   Revision: 00000001    Seriennummer: AUZ8ZAGHX0010VB
+   Codierung: 0173030000AAAA2AAA0000010000
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_AMPMst16C9Gen2ALPI 001002
+   ROD: EV_AMPMst16C9Gen2ALPI.rod
+   VCID: 629C5BF524CA32372C5-8036
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 52: Türelektr. Beifahr. (J387)       Labeldatei:| 5QX-959-X92-52.clb
+   Teilenummer SW: 5Q0 959 592 E    HW: 5Q0 959 592 B
+   Bauteil: TSG BFS       020 0041  
+   Seriennummer: 210516EEL12279
+   Codierung: 005F83204100040000001003
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_DCUPasseSideEWMAXKLO 006003
+   ROD: EV_DCUPasseSideEWMAXCONT_VW37.rod
+   VCID: 42DCBB75840A52370C5-8016
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 55: Leuchtweitenreg. (J745)       Labeldatei:* Keine
+   Teilenummer SW: 8V0 907 357 A    HW: 7P6 907 357 B
+   Bauteil: MxB-ECU       001 0226  
+   Revision: --------    Seriennummer: --------------
+   Codierung: 0ED202102B230200
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_HeadlRegulAUDIMXBAU64X 005014
+   ROD: EV_HeadlRegulAUDIMXBAU64X_005_AU37.rod
+   VCID: 3E24CF85F0F236D768D-806A
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 5F: Informationselek. I (J794)       Labeldatei:* Umleit. fehlgeschl.!
+   Teilenummer SW: 8V1 035 036     HW: 8V1 035 036 
+   Bauteil: MU-P-LN-EU    052 0679  
+   Seriennummer: A699F0G7501749
+   Codierung: 017303010000000011110002000A00332F0026E5017001009E
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_MUHig6C3Gen2HBAS 001115
+   ROD: EV_MUHig6C3Gen2HBAS_AU37.rod
+   VCID: 70B821BDFA2690A7AA1-8024
+
+   Datenträger: 
+   Subsystem 1 - Teilenummer SW: V03 959 801 PR    HW: -----------
+   Bauteil: ECE 2018  --- 0166 
+   Seriennummer: --------------------
+
+   Anzeigeeinheit 1 für Multimediasystem: 
+   Subsystem 2 - Teilenummer SW: 8V0 919 604 C    HW: 8V0 919 604 C
+   Bauteil: DU High  H49 0014 
+   Seriennummer: AUZ8Z9GY205P8M      
+
+   Bedienungseinheit für Multimediasystem: 
+   Subsystem 3 - Teilenummer SW: 8V0 919 614 BJ    HW: 8V0 919 614 BJ
+   Bauteil: ControlUnit_H  H85 0855 
+   Seriennummer: ALJAL105041600010646
+
+   Compact Disc Datenbank: 
+   Subsystem 4 - Teilenummer SW: V03 959 800 EG    HW: -----------
+   Bauteil: Gracenote2---  --- 1013 
+   Seriennummer: --------------------
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse 6C: Rückfahrkamera (J772)       Labeldatei:| DRV\5Q0-980-556.clb
+   Teilenummer SW: 5Q0 980 556 A    HW: 5Q0 980 556 
+   Bauteil: RVC Compact   H08 0172  
+   Codierung: 0273100102002001000040
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_CamSysRVRVCPANAMQBAB 005007
+   ROD: EV_CamSysRVRVCPANAMQBAB_005_VW37.rod
+   VCID: 3828D99DD2D608E7A21-806C
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse A5: Front-/Vorfeldkamera (R242)       Labeldatei:| DRV\3Q0-980-65X-A5.clb
+   Teilenummer SW: 3Q0 980 654 G    HW: 3Q0 980 654 
+   Bauteil: MQB_B_MFK     H04 0231  
+   Seriennummer: 06061611P20233
+   Codierung: 040307030000040101222346C048A90098000E200020
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_MFKBoschMQBB 001001
+   ROD: EV_MFKBoschMQBB_VW36.rod
+   VCID: 3B22C691E3E023FF4F3-806E
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse BB: Türelektronik hinten links (J388)       Labeldatei:* Keine
+   Teilenummer SW: 5Q0 959 595 E    HW: 5Q0 959 595 B
+   Bauteil: TSG HFS       020 0041  
+   Seriennummer: 250516EEO30474
+   Codierung: 000E83204000040000001002
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_DCURearDriveMAXKLO 006003
+   ROD: EV_DCURearDriveMAXCONT_VW37.rod
+   VCID: 45D6A0699524650F297-8010
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse BC: Türelektronik hinten rechts (J389)       Labeldatei:* Keine
+   Teilenummer SW: 5Q0 959 595 E    HW: 5Q0 959 595 B
+   Bauteil: TSG HBFS      020 0041  
+   Seriennummer: 250516EEO30478
+   Codierung: 000E83204000040000001002
+   Betriebsnr.: WSC 06314 790 00021
+   ASAM Datensatz: EV_DCURearPasseMAXKLO 006003
+   ROD: EV_DCURearPasseMAXCONT_VW37.rod
+   VCID: 45D6A0699524650F297-8010
+
+Kein(e) Fehlercode(s) gefunden.
+
+-------------------------------------------------------------------------------
+Adresse CF: Spurwechselassistent 2 (J770)       Labeldatei:. DRV\3Q0-907-566.clb
+   Teilenummer SW: 3Q0 907 590 D    HW: 3Q0 907 590 
+   Bauteil: MRR1Rear      H16 0410  
+   Revision: --------    
+   Codierung: 04C002
+   Betriebsnr.: WSC 00000 000 00000
+   ASAM Datensatz: EV_RearRadarS2BoschVW48X 001002
+   ROD: EV_RearRadarS2BoschVW48X.rod
+   VCID: 3634D7A5D8C2FE97B0D-8062
+
+1 Fehler gefunden:
+1311234 - Steuergerät für Spurwechselassistent 
+          C1114 F3 [008] - eingeschränkte Sicht
+          Sporadisch - bestätigt - geprüft seit letzter Löschung
+             Umgebungsbedingungen:
+                    Fehlerstatus: 00000001
+                    Fehlerpriorität: 4
+                    Fehlerhäufigkeit: 1
+                    Verlernzähler: 135
+                    Kilometerstand: 20473 km
+                    Datum: 2018.01.14
+                    Zeit: 14:24:11
+
+                    Steuergerätetemperatur: 37 °C
+                    Spannung Klemme 30: Messwert nicht verfügbar
+
+
+Ende--------(Dauer: 01:33, Batt.-Spannung Start/Ende: 13.2V/13.1V)---------

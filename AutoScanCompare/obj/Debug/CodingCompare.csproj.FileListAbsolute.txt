@@ -1,0 +1,50 @@
+c:\users\nico\documents\visual studio 2015\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\AutoScanCompare.CodingCompare.resources
+c:\users\nico\documents\visual studio 2015\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\AutoScanCompare.Form1.resources
+c:\users\nico\documents\visual studio 2015\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\CodingCompare.csproj.GenerateResource.Cache
+c:\users\nico\documents\visual studio 2015\Projects\AutoScanCompare\AutoScanCompare\bin\Debug\CodingCompare.exe.config
+c:\users\nico\documents\visual studio 2015\Projects\AutoScanCompare\AutoScanCompare\bin\Debug\CodingCompare.exe
+c:\users\nico\documents\visual studio 2015\Projects\AutoScanCompare\AutoScanCompare\bin\Debug\CodingCompare.pdb
+c:\users\nico\documents\visual studio 2015\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\CodingCompare.Properties.Resources.resources
+c:\users\nico\documents\visual studio 2015\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\CodingCompare.exe
+c:\users\nico\documents\visual studio 2015\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\CodingCompare.pdb
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\AutoScanCompare\AutoScanCompare\bin\Debug\de-DE\CodingCompare.resources.dll
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\AutoScanCompare.Form2.resources
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\CodingCompare.Resources.WinFormStrings.resources
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\CodingCompare.Resources.WinFormStrings.de-DE.resources
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\de-DE\CodingCompare.resources.dll
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\AutoScanCompare.ScanSelector.resources
+C:\Users\Nico\Documents\Visual Studio 2015\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\CodingCompare.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\bin\Debug\CodingCompare.exe.config
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\bin\Debug\CodingCompare.exe
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\bin\Debug\CodingCompare.pdb
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\bin\Debug\de-DE\CodingCompare.resources.dll
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\CodingCompare.csprojAssemblyReference.cache
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\AutoScanCompare.CodingCompare.resources
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\AutoScanCompare.Form1.resources
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\AutoScanCompare.Form2.resources
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\CodingCompare.Properties.Resources.resources
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\CodingCompare.Resources.WinFormStrings.resources
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\AutoScanCompare.ScanSelector.resources
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\CodingCompare.Resources.WinFormStrings.de-DE.resources
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\CodingCompare.csproj.GenerateResource.cache
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\CodingCompare.csproj.CoreCompileInputs.cache
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\de-DE\CodingCompare.resources.dll
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\CodingCompare.exe
+C:\Users\Nico\Documents\Visual Studio 2019\Projects\AutoScanCompare\AutoScanCompare\obj\Debug\CodingCompare.pdb
+D:\Git\CodingCompare\AutoScanCompare\bin\Debug\CodingCompare.exe.config
+D:\Git\CodingCompare\AutoScanCompare\bin\Debug\CodingCompare.exe
+D:\Git\CodingCompare\AutoScanCompare\bin\Debug\CodingCompare.pdb
+D:\Git\CodingCompare\AutoScanCompare\bin\Debug\de-DE\CodingCompare.resources.dll
+D:\Git\CodingCompare\AutoScanCompare\obj\Debug\CodingCompare.csprojAssemblyReference.cache
+D:\Git\CodingCompare\AutoScanCompare\obj\Debug\AutoScanCompare.CodingCompare.resources
+D:\Git\CodingCompare\AutoScanCompare\obj\Debug\AutoScanCompare.Form1.resources
+D:\Git\CodingCompare\AutoScanCompare\obj\Debug\AutoScanCompare.Form2.resources
+D:\Git\CodingCompare\AutoScanCompare\obj\Debug\CodingCompare.Properties.Resources.resources
+D:\Git\CodingCompare\AutoScanCompare\obj\Debug\CodingCompare.Resources.WinFormStrings.resources
+D:\Git\CodingCompare\AutoScanCompare\obj\Debug\AutoScanCompare.ScanSelector.resources
+D:\Git\CodingCompare\AutoScanCompare\obj\Debug\CodingCompare.Resources.WinFormStrings.de-DE.resources
+D:\Git\CodingCompare\AutoScanCompare\obj\Debug\CodingCompare.csproj.GenerateResource.cache
+D:\Git\CodingCompare\AutoScanCompare\obj\Debug\CodingCompare.csproj.CoreCompileInputs.cache
+D:\Git\CodingCompare\AutoScanCompare\obj\Debug\de-DE\CodingCompare.resources.dll
+D:\Git\CodingCompare\AutoScanCompare\obj\Debug\CodingCompare.exe
+D:\Git\CodingCompare\AutoScanCompare\obj\Debug\CodingCompare.pdb
