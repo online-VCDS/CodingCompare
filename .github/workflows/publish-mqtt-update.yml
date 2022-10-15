@@ -13,5 +13,7 @@ jobs:
           port: 1883
           topic: "VCDS/CI/push/${{ github.repository }}"
           message: "{
-            'commit' : ${{ github.event.head_commit.message }}
+            'repo' : ${{ github.repository }},
+            'commit' : ${{ github.event.head_commit.message }},
+            'actor' : ${{ github.actor }} 
           }"
