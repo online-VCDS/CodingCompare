@@ -36,7 +36,7 @@ namespace AutoScanCompare
 			labelMJ1.Text = WinFormStrings.str_modelYear;
 			labelMJ2.Text = WinFormStrings.str_modelYear;
 
-			label14.Text = "V" + Assembly.GetExecutingAssembly().GetName().Version.ToString() + " by hadez16";
+			label14.Text = "V" + Assembly.GetExecutingAssembly().GetName().Version.ToString() + " by VCDS.de";
 			
 			this.Text = WinFormStrings.str_winformTitle;
 			label1.Text = WinFormStrings.str_autoscan1;

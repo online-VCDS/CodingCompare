@@ -502,7 +502,7 @@ namespace CodingCompare.Resources {
         }
         
         /// <summary>
-        ///   Sucht eine lokalisierte Zeichenfolge, die VCDS Autoscan coding compare (by hadez16) ähnelt.
+        ///   Sucht eine lokalisierte Zeichenfolge, die VCDS Autoscan coding compare (by VCDS.de) ähnelt.
         /// </summary>
         internal static string str_winformTitle {
             get {

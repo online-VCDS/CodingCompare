@@ -70,7 +70,7 @@
 			this.label14.Name = "label14";
 			this.label14.Size = new System.Drawing.Size(96, 13);
 			this.label14.TabIndex = 31;
-			this.label14.Text = "V2.0    by hadez16";
+			this.label14.Text = "V2.0    by VCDS.de";
 			// 
 			// tabControl1
 			// 
