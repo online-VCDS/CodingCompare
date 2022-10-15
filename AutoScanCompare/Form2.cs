@@ -41,7 +41,7 @@ namespace AutoScanCompare
 			tabControl1.ShowToolTips = true;
 			this.DragEnter += new System.Windows.Forms.DragEventHandler(this.doDragEnter);
 			this.DragDrop += new System.Windows.Forms.DragEventHandler(this.doDragDrop);
-			label14.Text = "V" + Assembly.GetExecutingAssembly().GetName().Version.ToString() + " by hadez16";
+			label14.Text = "V" + Assembly.GetExecutingAssembly().GetName().Version.ToString() + " by VCDS.de";
 
 			labelSearchCoding.Text = WinFormStrings.str_searchCodingTitle;
 			labelSearchCodingUnit.Text = WinFormStrings.str_searchCodingAdresse;

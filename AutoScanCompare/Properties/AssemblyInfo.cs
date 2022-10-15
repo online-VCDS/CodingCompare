@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("VCDS CodingCompare")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("hadez16")]
+[assembly: AssemblyCompany("VCDS.de")]
 [assembly: AssemblyProduct("VCDS CodingCompare")]
-[assembly: AssemblyCopyright("hadez16")]
+[assembly: AssemblyCopyright("VCDS.de")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

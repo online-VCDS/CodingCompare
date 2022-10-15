@@ -352,7 +352,7 @@
     <value>30</value>
   </data>
   <data name="label14.Text" xml:space="preserve">
-    <value>V2.0    by hadez16</value>
+    <value>V2.0    by VCDS.de</value>
   </data>
   <data name="&gt;&gt;label14.Name" xml:space="preserve">
     <value>label14</value>
@@ -1301,7 +1301,7 @@
     <value>730, 742</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>VCDS Autoscan-Vergleichstaschenmesser (by hadez16)</value>
+    <value>VCDS Autoscan-Vergleichstaschenmesser (by VCDS.de)</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>Form1</value>

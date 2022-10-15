@@ -364,7 +364,7 @@
 			this.label14.Name = "label14";
 			this.label14.Size = new System.Drawing.Size(62, 13);
 			this.label14.TabIndex = 29;
-			this.label14.Text = "by hadez16";
+			this.label14.Text = "by VCDS.de";
 			// 
 			// richTextBox1
 			// 
