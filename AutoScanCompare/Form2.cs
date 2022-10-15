@@ -419,7 +419,7 @@ namespace AutoScanCompare
 
 		}
 
-		private void buttonSearchCodingBasePath_Click(object sender, EventArgs e)
+		private void SearchCodingBasePathBtn_Click(object sender, EventArgs e)
 		{
 
 			using (var fbd = new FolderBrowserDialog())
@@ -470,7 +470,7 @@ namespace AutoScanCompare
 			serachCodingBasepath = CodingCompareIni.Read("LastDir", "CodingCompare");
 
 			if (String.IsNullOrEmpty(serachCodingBasepath))
-				buttonSearchCodingBasePath_Click(null, new EventArgs());
+				SearchCodingBasePathBtn_Click(null, new EventArgs());
 
 			if (!String.IsNullOrEmpty(serachCodingBasepath) && Regex.IsMatch(textBoxSearchAddress.Text, "[0-9A-F]{1,2}") && Regex.IsMatch(textBoxSearchByte.Text, "[0-9]") && Regex.IsMatch(textBoxSearchBit.Text, "[0-9]{1}"))
 			{
@@ -545,7 +545,7 @@ namespace AutoScanCompare
 
 		private void buttonSearchCodingBasePath_MouseHover(object sender, EventArgs e)
 		{
-			toolTip1.SetToolTip(buttonSearchCodingBasePath, serachCodingBasepath);
+			toolTip1.SetToolTip(SearchCodingBasePathBtn, serachCodingBasepath);
 		}
 
 		private void buttonSearchCoding_MouseHover(object sender, EventArgs e)
