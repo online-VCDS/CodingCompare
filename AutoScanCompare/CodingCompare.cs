@@ -29,7 +29,7 @@ namespace AutoScanCompare
             this.Text = parentTitle;
 
 			label15.Text = WinFormStrings.str_lblCodeForum;
-			button1.Text = WinFormStrings.str_copyClipboard;
+			CopyToClipboardBtn.Text = WinFormStrings.str_copyClipboard;
 
             if(node == null)
             {
@@ -196,9 +196,14 @@ namespace AutoScanCompare
 
         }
 
-		private void button1_Click(object sender, EventArgs e)
+		private void CopyToClipboardBtn_Click(object sender, EventArgs e)
 		{
 			Clipboard.SetText(richTextBox1.Text);
 		}
-	}
+
+        private void CodingCompare_Load(object sender, EventArgs e)
+        {
+
+        }
+    }
 }

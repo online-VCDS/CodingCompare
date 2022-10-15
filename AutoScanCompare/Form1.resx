@@ -273,31 +273,31 @@
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
     <value>16</value>
   </data>
-  <data name="button1.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="RunAutoscanCompareBtn.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Left</value>
   </data>
-  <data name="button1.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="RunAutoscanCompareBtn.Location" type="System.Drawing.Point, System.Drawing">
     <value>16, 562</value>
   </data>
-  <data name="button1.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="RunAutoscanCompareBtn.Size" type="System.Drawing.Size, System.Drawing">
     <value>75, 23</value>
   </data>
-  <data name="button1.TabIndex" type="System.Int32, mscorlib">
+  <data name="RunAutoscanCompareBtn.TabIndex" type="System.Int32, mscorlib">
     <value>5</value>
   </data>
-  <data name="button1.Text" xml:space="preserve">
+  <data name="RunAutoscanCompareBtn.Text" xml:space="preserve">
     <value>Start</value>
   </data>
-  <data name="&gt;&gt;button1.Name" xml:space="preserve">
-    <value>button1</value>
+  <data name="&gt;&gt;RunAutoscanCompareBtn.Name" xml:space="preserve">
+    <value>RunAutoscanCompareBtn</value>
   </data>
-  <data name="&gt;&gt;button1.Type" xml:space="preserve">
+  <data name="&gt;&gt;RunAutoscanCompareBtn.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;button1.Parent" xml:space="preserve">
+  <data name="&gt;&gt;RunAutoscanCompareBtn.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;button1.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;RunAutoscanCompareBtn.ZOrder" xml:space="preserve">
     <value>15</value>
   </data>
   <data name="label3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
@@ -346,7 +346,7 @@
     <value>606, 682</value>
   </data>
   <data name="label14.Size" type="System.Drawing.Size, System.Drawing">
-    <value>96, 13</value>
+    <value>99, 13</value>
   </data>
   <data name="label14.TabIndex" type="System.Int32, mscorlib">
     <value>30</value>
@@ -573,31 +573,31 @@
   <data name="&gt;&gt;label6.ZOrder" xml:space="preserve">
     <value>6</value>
   </data>
-  <data name="button2.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="OpenCodingCompareBtn.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Right</value>
   </data>
-  <data name="button2.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="OpenCodingCompareBtn.Location" type="System.Drawing.Point, System.Drawing">
     <value>602, 642</value>
   </data>
-  <data name="button2.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="OpenCodingCompareBtn.Size" type="System.Drawing.Size, System.Drawing">
     <value>75, 23</value>
   </data>
-  <data name="button2.TabIndex" type="System.Int32, mscorlib">
+  <data name="OpenCodingCompareBtn.TabIndex" type="System.Int32, mscorlib">
     <value>38</value>
   </data>
-  <data name="button2.Text" xml:space="preserve">
+  <data name="OpenCodingCompareBtn.Text" xml:space="preserve">
     <value>Vergleich</value>
   </data>
-  <data name="&gt;&gt;button2.Name" xml:space="preserve">
-    <value>button2</value>
+  <data name="&gt;&gt;OpenCodingCompareBtn.Name" xml:space="preserve">
+    <value>OpenCodingCompareBtn</value>
   </data>
-  <data name="&gt;&gt;button2.Type" xml:space="preserve">
+  <data name="&gt;&gt;OpenCodingCompareBtn.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;button2.Parent" xml:space="preserve">
+  <data name="&gt;&gt;OpenCodingCompareBtn.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;button2.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;OpenCodingCompareBtn.ZOrder" xml:space="preserve">
     <value>5</value>
   </data>
   <data name="labelMJ1.AutoSize" type="System.Boolean, mscorlib">
@@ -690,34 +690,34 @@
   <data name="&gt;&gt;checkBox3.ZOrder" xml:space="preserve">
     <value>2</value>
   </data>
-  <data name="button3.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
+  <data name="EnableContexMenuBtn.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">
     <value>Bottom, Right</value>
   </data>
-  <data name="button3.Font" type="System.Drawing.Font, System.Drawing">
+  <data name="EnableContexMenuBtn.Font" type="System.Drawing.Font, System.Drawing">
     <value>Microsoft Sans Serif, 8.25pt, style=Italic</value>
   </data>
-  <data name="button3.Location" type="System.Drawing.Point, System.Drawing">
+  <data name="EnableContexMenuBtn.Location" type="System.Drawing.Point, System.Drawing">
     <value>579, 562</value>
   </data>
-  <data name="button3.Size" type="System.Drawing.Size, System.Drawing">
+  <data name="EnableContexMenuBtn.Size" type="System.Drawing.Size, System.Drawing">
     <value>123, 34</value>
   </data>
-  <data name="button3.TabIndex" type="System.Int32, mscorlib">
+  <data name="EnableContexMenuBtn.TabIndex" type="System.Int32, mscorlib">
     <value>42</value>
   </data>
-  <data name="button3.Text" xml:space="preserve">
+  <data name="EnableContexMenuBtn.Text" xml:space="preserve">
     <value>Auto-Scan GUI Kontextmenü ein/aus</value>
   </data>
-  <data name="&gt;&gt;button3.Name" xml:space="preserve">
-    <value>button3</value>
+  <data name="&gt;&gt;EnableContexMenuBtn.Name" xml:space="preserve">
+    <value>EnableContexMenuBtn</value>
   </data>
-  <data name="&gt;&gt;button3.Type" xml:space="preserve">
+  <data name="&gt;&gt;EnableContexMenuBtn.Type" xml:space="preserve">
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
-  <data name="&gt;&gt;button3.Parent" xml:space="preserve">
+  <data name="&gt;&gt;EnableContexMenuBtn.Parent" xml:space="preserve">
     <value>$this</value>
   </data>
-  <data name="&gt;&gt;button3.ZOrder" xml:space="preserve">
+  <data name="&gt;&gt;EnableContexMenuBtn.ZOrder" xml:space="preserve">
     <value>1</value>
   </data>
   <data name="checkBox4.Anchor" type="System.Windows.Forms.AnchorStyles, System.Windows.Forms">

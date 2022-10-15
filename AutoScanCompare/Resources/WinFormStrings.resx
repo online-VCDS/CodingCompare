@@ -267,4 +267,7 @@
   <data name="str_searchCodingTitle" xml:space="preserve">
     <value>Search for coding:</value>
   </data>
+  <data name="str_autoscanNotSelected" xml:space="preserve">
+    <value>Add two Autoscans to the Text-Boxes in the Autoscan Compare Tool</value>
+  </data>
 </root>
