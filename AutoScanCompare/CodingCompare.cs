@@ -15,7 +15,8 @@ namespace AutoScanCompare
     {
         int lastposition;
         string parentTitle;
-        
+        string codierung1bbcode;
+        string codierung2bbcode;
         List<string> differentBits = new List<string>();
 
         public CodingCompare(TreeNode node, string parentText, string coding1 = "", string coding2 = "")
@@ -41,8 +42,6 @@ namespace AutoScanCompare
 
             lastposition = 140;
             int lastchars = 0;
-            string codierung1bbcode;
-            string codierung2bbcode;
             for(int i = 0; i < Convert.ToInt64(node.Text.Length) / 2; i++)
             {
                 TextBox tb1 = new TextBox();
