@@ -1,1 +1,0 @@
-Obfuscar.Console.exe ..\..\..\obfuscar.xml
