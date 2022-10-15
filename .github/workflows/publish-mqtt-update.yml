@@ -1,0 +1,17 @@
+name: Publish MQTT Update Message
+on: [push]
+jobs:
+  build:
+      name: Build
+      runs-on: ubuntu-latest
+      steps:
+      - name: Publish commit hash to mqtt broker
+        uses: juhrlass/mqtt-action@master
+        with:
+          protocol: mqtt
+          host: public.mqtt.gruppe.ai
+          port: 1883
+          topic: "VCDS/CI/push/${{ github.repository }}"
+          message: "{
+            'commit' : ${{ github.event.head_commit.message }}
+          }"
