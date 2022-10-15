@@ -49,8 +49,8 @@ namespace AutoScanCompare
 			label4.Text = WinFormStrings.str_CodingQuickCompare;
 			label5.Text = WinFormStrings.str_coding1;
 			label6.Text = WinFormStrings.str_coding2;
-			button2.Text = WinFormStrings.str_btnCompare;
-			button3.Text = WinFormStrings.str_contextMenue;
+			OpenCodingCompareBtn.Text = WinFormStrings.str_btnCompare;
+			EnableContexMenuBtn.Text = WinFormStrings.str_contextMenue;
 
 
 			this.BackColor = ColorTranslator.FromHtml("#CDE1E2");
@@ -125,14 +125,22 @@ namespace AutoScanCompare
             }
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void RunAutoscanCompareBtn_Click(object sender, EventArgs e)
         {
             sourceSTGs.Clear();
             destSTGs.Clear();
             mergedSTGs.Clear();
             treeView1.Nodes.Clear();
 
-            if(richTextBox1.BackColor != Color.LightGreen || richTextBox2.BackColor != Color.LightGreen || richTextBox1.Text == "" || richTextBox2.Text == "")
+
+
+            if (richTextBox1.Text == "" || richTextBox2.Text == "")
+            {
+                MessageBox.Show(WinFormStrings.str_autoscanNotSelected, WinFormStrings.str_Error, MessageBoxButtons.OK, MessageBoxIcon.Error);
+                return;
+            }
+
+            if (richTextBox1.BackColor != Color.LightGreen || richTextBox2.BackColor != Color.LightGreen)
             {
                 MessageBox.Show(WinFormStrings.str_autoscanNotValid, WinFormStrings.str_Error, MessageBoxButtons.OK, MessageBoxIcon.Error);
                 return;
@@ -336,7 +344,7 @@ namespace AutoScanCompare
             }
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void OpenCodingCompareBtn_Click(object sender, EventArgs e)
         {
             if(Regex.IsMatch(textBox1.Text, "^[0-9a-fA-F]+$") && Regex.IsMatch(textBox2.Text, "^[0-9a-fA-F]+$") && textBox1.Text.Length == textBox2.Text.Length)
             {
@@ -426,7 +434,7 @@ namespace AutoScanCompare
             return ret;
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void EnableContexMenuBtn_Click(object sender, EventArgs e)
         {
             Helper.RegisterContextMenu();
         }

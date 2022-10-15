@@ -88,6 +88,15 @@ namespace CodingCompare.Resources {
         }
         
         /// <summary>
+        ///   Sucht eine lokalisierte Zeichenfolge, die Add two Autoscans to the Text-Boxes in the Autoscan Compare Tool ähnelt.
+        /// </summary>
+        internal static string str_autoscanNotSelected {
+            get {
+                return ResourceManager.GetString("str_autoscanNotSelected", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Sucht eine lokalisierte Zeichenfolge, die Auto-Scans not valid ähnelt.
         /// </summary>
         internal static string str_autoscanNotValid {
