@@ -199,7 +199,7 @@
     <value>License Plate</value>
   </data>
   <data name="str_autoscanValidation_Regex" xml:space="preserve">
-    <value>^Address [0-9A-Z][0-9A-Z](?=\:)</value>
+    <value>^Address [0-9A-Z]{2,4}(?=\:)</value>
   </data>
   <data name="str_autoscanValidation_Teilenummer" xml:space="preserve">
     <value>Part No: </value>
